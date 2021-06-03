@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The English womens chastity; or, The last Sunday nights frolick: being a very true account of three eminent citizens of London. Who by a strange mistake, unfortunatly pickt up their own wives, last Sunday-evening, in St. James's park; whom they treated with a supper very splendidly, at an eminent tavern, near Charing-Cross: with the manner of their discovery; and of the great confusion of the whole company thereupon. Being, indeed, not only a very pleasant, but also a true relation.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22547</idno><idno type="EEBO-CITATION">99885888</idno>
+  <idno type="VID">204148</idno>
+  <idno type="EEBO-PROQUEST">2240886928</idno>
+  
+            <idno type="STC">Wing E3124A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 714.i.8[63]</idno>
+            <idno type="STC">ESTC R225155</idno>
+            <idno type="PROQUEST">ocm99885888</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885888e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22547)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204148)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; F1:2[64])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The English womens chastity; or, The last Sunday nights frolick: being a very true account of three eminent citizens of London. Who by a strange mistake, unfortunatly pickt up their own wives, last Sunday-evening, in St. James's park; whom they treated with a supper very splendidly, at an eminent tavern, near Charing-Cross: with the manner of their discovery; and of the great confusion of the whole company thereupon. Being, indeed, not only a very pleasant, but also a true relation.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Manners and customs --  England --  Early works to 1800.</term>
+               <term type="topical_term">Marriage --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:204148:1"/>
+            <pb facs="tcp:204148:1"/>
+            <head>The <hi>English</hi> Womens Chastity; OR, The last SUNDAY Nights Frolick: Being a very True ACCOUNT of <hi>Three Eminent Citizens of London.</hi> Who by a sttange Mistake, unfortunatly Pickt up their own WIVES, last SUNDAY-Evening, in St. JAMES's Park; Whom they Treated with a Supper very Splendidly, at an Eminent Tavern, near CHARING-CROSS: With the Manner of their Discovery; and of the great Confusion of the whole Company thereupon. <hi>Being, indeed, not only a very Pleasant, but also a True Relation.</hi>
+            </head>
+            <p>IT was upon a Sunday Night (to sanctifie the Deed) when three Strowling Citizens, of supe<g ref="char:EOLhyphen"/>rior Note, releas'd from <hi>Purgatory</hi> of a Compter, determin'd to gratifie their Lungs with a little fresh air, and after the duty of the day was over, which no doubt they had performed with the usual City devotion, they very amicably took a Walk into St. <hi>James</hi>'s Park:</p>
+            <p>The Matrons at home, being Ladies of singular Intelligence▪ were timely enough acquainted with their Husbands determination, Mrs. <hi>A—</hi>having the first advice brought to her, posted away with mighty Expedition to Mrs E—'s, where the matter was not long a debating, being Ladies of an admirable invention; and the Resolve was, that they should put on disguises, and go <hi>incognito</hi> in pursuit of their Husbands, that care and pleasure should separatly occupy the Fa<g ref="char:EOLhyphen"/>mily. The Ladies thus equipped, pursued their Stratagem in Masquerade, and soon arrived at the Park; where they were often attacked by the Beaux and Sparks, but they being in quest of a Nobler Game (tho naturally coming and complying enough) did very tyranically repulse all the Courtship and Solicitations of these Gallants▪ and very bravely made good their way, till at length they came in view of their appointed Quarry, and drawing towards them with all the Tricks and Artifices of Women of the Town. Mr. A—made the motion to meet them, and carry them to a Glass of Wine, being of an even number, and promising well enough to deserve their fare, the motion was agreed to by the other two, and referred to Mr. A▪ be<g ref="char:EOLhyphen"/>ing a Man of the greatest Assurance and Presence of Mind) to manage; and accordingly, <hi>Don Formali<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oso,</hi> with a <hi>Spanish</hi> Stiffness, makes up to the Ladies, and accosts them with Tropes and Figures, and a dull Harangue of Costive Rhetorick, (his natural Stile, wherein he excuseth the Modestly and Bashfulness of his two friends, tho' <hi>Citts,</hi> and Married too; yet for them and him self he gave them a hearty invitation to a <hi>Glass of Wine.</hi> The Ladies gave their consent by their Silence; or by saying very little at most, being sparing of their specch, for fear of Discovering themselves; so, in short, every on takes his Bird, and hastes to a certain Tavern at <hi>Charing-Gross;</hi> knowing the nights being short, their Wives would look for them home in good time, or else lead 'em a weary Life all the week after, with hard service in bed and hard Bargains i'th Shop, as soon as they came to the Tavern, like generous Hearts, they spoke for a Supper of a Price, and orderd it to be hastned with all Speed, and in the mean time call'd most incontinently for Wine, and drank very freely whilst Supper was making ready; But here was the most deverting Scene as Fortune would have it, who seldom stumbles over or interupts such intrigues, each makes choise of his own wife, whither for Rallary, or the last Favours I know not, (an unhappy choise and a sign that they did not know them; And here they all strove for the most soft and engaging Expressions of <hi>Love,</hi> and here they boast<g ref="char:EOLhyphen"/>ed and bounced of strenuous Vigour, and youthful performances, which these disguised Ladies had too often found experimentally false, in the disconsolat and legitimate bed, and yet perhaps these Gentlemen might have been sincere too, <hi>For some can never do the Trick to Per<g ref="char:EOLhyphen"/>fection, but in a Baudy bouse.</hi>
+            </p>
+            <p>But, by this time Supper was brought up, and the conditions ended that they must now Unmask, which when the waiters were commanded to retire, they performed, and put an end to the Farce by discovering themselves to be their wives, and the whole company 3 whole pair of Legitimate Upholders of the race man, Tho I think they had not been very successfull neither.</p>
+            <p>But here you may imagine what a surprize &amp; confusion arose in the whole company, &amp; had not the sparks been very generous in their <hi>entertainment,</hi> they had not been considerable sufferers with the pleasure of the Discovery, and the Diversion of good Wine, and a Supper, which in the midst of all their Passion, they were too wise to spoil, the Ladies were so far mitigated as to keep the King's <hi>Peace,</hi> and their Fingers off their Husbands Faces. So, in short the Com<g ref="char:EOLhyphen"/>pany soon broke up, and they all parted, the Wives to the <hi>Triumph of their Discovery,</hi> and the Husbands to the <hi>Severest Discipline</hi> that ever Men, besides <hi>Cools, Culles,</hi> and <hi>Cits,</hi> were ex<g ref="char:EOLhyphen"/>posed to▪ This Frolick was performed on <hi>Sunday</hi> last.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
